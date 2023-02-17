@@ -1,3 +1,5 @@
+https://senayakagndz-english-dict-tailwnd.netlify.app/
+![dictionary-tailwind](https://user-images.githubusercontent.com/69090467/219525389-b508e139-0b4c-4354-b2a9-e2f368da8b82.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
